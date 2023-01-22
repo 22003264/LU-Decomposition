@@ -17,7 +17,6 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
-
 ```
 '''Program to solve a matrix using LU decomposition.
 Developed by: Sirisha Onteddu
@@ -35,9 +34,11 @@ print(x)
 
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/119389139/213916890-5d398eef-0708-46d1-a8ff-986237b1f847.png)
+L and U decomposition
+![image](https://user-images.githubusercontent.com/119389139/213922001-9dd4a6c2-9057-4cbe-af75-8b816acc50fe.png)
 
-![image](https://user-images.githubusercontent.com/119389139/213921557-6e83c4f9-9499-408b-80c5-5bfa00586b18.png)
+LU decomposition
+![image](https://user-images.githubusercontent.com/119389139/213921955-bb7768c8-84d6-4618-886b-c271a7f0f569.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
