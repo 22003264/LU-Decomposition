@@ -3,7 +3,10 @@
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 ## Algorithm:
-
+1.Import the numpy module to use the built-in functions for calculation
+2.Prepare the lists from each linear equations and assign in np.array()
+3.Using the scipy.linalg and imort lu_fator and lu_solve we get the values
+4.End the program
 ## Program:
 ```
 '''Program to find L and U matrix using LU decomposition.
